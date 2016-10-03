@@ -219,6 +219,14 @@ input[type=submit] {
 
 	#logo {
 	margin-left: 3%;
+	width: 50%;
+	}
+
+	nav {
+	width: 47%;
+	text-align: center;
+	max-width: 768px;
+		
 	}
 
 
@@ -241,7 +249,7 @@ input[type=submit] {
 	#logo {
 	width: 50%;
 	margin-left: 3%;
-	font-size: 30px;
+	font-size: 25px;
 
 	}
 
